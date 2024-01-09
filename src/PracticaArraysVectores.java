@@ -33,6 +33,8 @@ public class PracticaArraysVectores {
         System.out.println("La temperatura maxima de todas las ciudades es " + tempmaxtotal + " grados");
         System.out.println("La temperatura minima de todas las ciudades es " + tempmintotal + " grados");
 
+        //lol
+
     }
 
 }
